@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        echo "как дела!";
+        echo "как делаааааа?";
     ?>
 </body>
 </html>
